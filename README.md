@@ -44,4 +44,4 @@ O notebook está organizado nas seguintes etapas principais:
 
 ## Considerações Finais
 
-Este projeto demonstra a aplicação prática de técnicas de análise exploratória e preparação de dados, voltados à predição da ocorrência de falhas e classificação dos diferentes tipos de falha.
+Este projeto demonstra a aplicação prática de técnicas de análise exploratória e preparação de dados, voltados à classificação dos diferentes tipos de falha.
