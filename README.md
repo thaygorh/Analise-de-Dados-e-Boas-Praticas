@@ -17,9 +17,9 @@ A análise busca compreender tanto a ocorrência de falhas quanto a distinção 
 
 Foram aplicadas técnicas de análise exploratória de dados (EDA), incluindo estatísticas descritivas, histogramas, boxplots, matriz de correlação e análise multivariada com pairplot.
 
-As hipóteses foram definidas a partir das váriaveis observadas no dataset e posteriormente validadas com base nas evidências encontradas nos dados, permitindo uma investigação estruturada das relações entre variáveis operacionais e a ocorrência de falhas.
+As hipóteses foram definidas com base nas variáveis disponíveis no dataset e posteriormente validadas com base nas evidências encontradas nos dados, permitindo uma investigação estruturada das relações entre variáveis operacionais e a ocorrência de falhas.
 
-A etapa de pré-processamento contemplou verificação da qualidade dos dados, normalização, padronização e criação de novas variáveis utilizando feature engineering, com foco em melhorar a interpretação e comparabilidade das variáveis.
+A etapa de pré-processamento contemplou verificação da qualidade dos dados, normalização, padronização e criação de novas variáveis por meio de feature engineering, com foco em melhorar a interpretação e comparabilidade das variáveis.
 
 ---
 
@@ -53,4 +53,3 @@ O notebook está organizado a partir dos seguintes tópicos:
 
 - [Predictive Maintenance Dataset AI4I 2020.csv](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/Predictive%20Maintenance%20Dataset%20AI4I%202020.csv)  
   Dataset utilizado no projeto.
-
