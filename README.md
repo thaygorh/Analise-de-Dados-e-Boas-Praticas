@@ -15,18 +15,7 @@ A análise segue as boas práticas de ciência de dados, contemplando desde o en
 
 ## Notebook do Projeto
 
-Acesse o notebook completo no GitHub:  
-https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/mvp-analise-dados-e-boas-praticas.ipynb
-
----
-
-## Dataset
-
-Dataset disponível no repositório:  
-https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/Predictive%20Maintenance%20Dataset%20AI4I%202020.csv
-
-Dataset original no Kaggle:  
-https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020
+[mvp-analise-dados-e-boas-praticas.ipynb](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/mvp-analise-dados-e-boas-praticas.ipynb)
 
 ---
 
@@ -47,14 +36,12 @@ O notebook está organizado nas seguintes etapas principais:
 
 ## Arquivos do Repositório
 
-- [mvp-analise-dados-e-boas-praticas.ipynb](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/mvp-analise-dados-e-boas-praticas.ipynb)  
-  Notebook principal contendo toda a análise, incluindo EDA, hipóteses e pré-processamento dos dados.
+[mvp-analise-dados-e-boas-praticas.ipynb](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/mvp-analise-dados-e-boas-praticas.ipynb) → Notebook principal contendo toda a análise.
 
-- [Predictive Maintenance Dataset AI4I 2020.csv](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/Predictive%20Maintenance%20Dataset%20AI4I%202020.csv)  
-  Dataset utilizado no projeto, contendo variáveis operacionais e registros de falhas em máquinas industriais.
+[Predictive Maintenance Dataset AI4I 2020.csv](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/Predictive%20Maintenance%20Dataset%20AI4I%202020.csv) → Dataset utilizado no projeto.
 
 ---
 
 ## Considerações Finais
 
-Este projeto demonstra a aplicação prática de técnicas de análise exploratória e preparação de dados, servindo como base para futuras aplicações em modelos de machine learning voltados à predição da ocorrência de falhas e classificação dos diferentes tipos de falha.
+Este projeto demonstra a aplicação prática de técnicas de análise exploratória e preparação de dados, voltados à predição da ocorrência de falhas e classificação dos diferentes tipos de falha.
