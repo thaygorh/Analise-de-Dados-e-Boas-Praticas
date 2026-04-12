@@ -47,13 +47,11 @@ O notebook está organizado nas seguintes etapas principais:
 
 ## Arquivos do Repositório
 
-mvp-analise-dados-e-boas-praticas.ipynb  
-Notebook principal contendo toda a análise, visualizações, hipóteses e pré-processamento dos dados.  
-https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/mvp-analise-dados-e-boas-praticas.ipynb
+- [mvp-analise-dados-e-boas-praticas.ipynb](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/mvp-analise-dados-e-boas-praticas.ipynb)  
+  Notebook principal contendo toda a análise, incluindo EDA, hipóteses e pré-processamento dos dados.
 
-Predictive Maintenance Dataset AI4I 2020.csv  
-Dataset utilizado no projeto, contendo variáveis operacionais e registros de falhas.  
-https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/Predictive%20Maintenance%20Dataset%20AI4I%202020.csv
+- [Predictive Maintenance Dataset AI4I 2020.csv](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/Predictive%20Maintenance%20Dataset%20AI4I%202020.csv)  
+  Dataset utilizado no projeto, contendo variáveis operacionais e registros de falhas em máquinas industriais.
 
 ---
 
