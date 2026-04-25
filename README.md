@@ -54,9 +54,9 @@ O notebook está organizado a partir dos seguintes tópicos:
 - [Predictive Maintenance Dataset AI4I 2020.csv](https://github.com/thaygorh/Analise-de-Dados-e-Boas-Praticas/blob/main/Predictive%20Maintenance%20Dataset%20AI4I%202020.csv)  
   Dataset utilizado no projeto.
 
-  ---
+---
 
-  ## Uso e autoria
+## Uso e autoria
 
 Este projeto foi desenvolvido para fins de estudo e portfólio.
 
@@ -65,4 +65,5 @@ O código está disponível para fins educacionais e pode ser utilizado como ref
 Caso utilize este material, por favor, atribua o devido crédito ao autor original:
 
 GitHub: https://github.com/thaygorh
+
 LinkedIn: https://www.linkedin.com/in/thaygorh
